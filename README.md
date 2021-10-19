@@ -1,5 +1,7 @@
 <p align="center">
+<!--
  <img width="1024px" src="https://github.com/Ailson-Araujo/Ailson-Araujo/blob/main/src/python-header.jpg" align="center"/>
+-->
  <h2 align="center">Olá, Eu sou Ailson. 😄</h2>
  <h3 align="center">Entusiasta da Linguagem 🐍 Python 🐍</h3>
 </p>
