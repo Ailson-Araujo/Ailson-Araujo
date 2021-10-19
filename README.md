@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ailson-Araujo&show_icons=true&theme=tokyonight" width="360px"/>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ailson-Araujo&theme=tokyonight&layout=compact&exclude_lang=java+r" width="360px" />
+<img src="https://github-readme-stats.vercel.app/api?username=ailson-Araujo&show_icons=true&theme=tokyonight" width="400px"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ailson-Araujo&theme=tokyonight&layout=compact&exclude_lang=java+r" width="400px" />
 </p>
 
 ## 🚀 Projeto
@@ -20,7 +20,7 @@
 ## 📫 Conecte-se
 
 <a href="mailto:ailson.a.leite@gmail.com"><img height="25" src="https://github.com/Ailson-Araujo/Ailson-Araujo/blob/main/src/mail.png"></a>
-<a href="https://twitter.com/AilsonOjuara" target="_blank"><img height="25" src="https://github.com/Ailson-Araujo/Ailson-Araujo/blob/main/src/twitter.png"></a>
+<a href="https://twitter.com/AilsonOjuara"><img height="25" src="https://github.com/Ailson-Araujo/Ailson-Araujo/blob/main/src/twitter.png"></a>
 
 
 <!--
